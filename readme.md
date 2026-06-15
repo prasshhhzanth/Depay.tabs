@@ -1,6 +1,6 @@
-## 📱 Application Screenshots
+# 📱 Application Screenshots
 
-### Send Money
+## Send Money
 
 Users can initiate cross-border transfers using a mobile number or UPI ID.
 
@@ -8,7 +8,7 @@ Users can initiate cross-border transfers using a mobile number or UPI ID.
 
 ---
 
-### Currency Selection
+## Currency Selection
 
 Select the destination currency for international settlement.
 
@@ -16,7 +16,7 @@ Select the destination currency for international settlement.
 
 ---
 
-### Atomic Swap Engine
+## Atomic Swap Engine
 
 Convert local currency into digital sovereign assets through blockchain-powered atomic swaps.
 
@@ -24,7 +24,7 @@ Convert local currency into digital sovereign assets through blockchain-powered 
 
 ---
 
-### Transaction History
+## Transaction History
 
 Track tokenization, atomic swaps, and payout transactions with complete transparency.
 
@@ -32,7 +32,7 @@ Track tokenization, atomic swaps, and payout transactions with complete transpar
 
 ---
 
-### Blockchain Receipt
+## Blockchain Receipt
 
 View immutable transaction records, exchange rates, recipient information, and transaction hashes.
 
